@@ -1,4 +1,4 @@
-## 👋 Hi, I am Catarina Pires
+# 👋 Hi, I am Catarina Pires
 
 I am a 25 year-old Data Scientist from Lisbon 🇵🇹 currently living in Berlin 🇩🇪.
 
@@ -6,9 +6,9 @@ I found my passion for Data Science in my 3rd year of Bachelors, after choosing 
 
 Currently, I have been working as a Data Scientist for over a year and I have deepened the knowledge I gained from my studies while working in an Agile environment and learning new technologies.   
 
-### 🌱 Technologies I know
+## 🌱 Technologies I know
 
-- <b>Programming languages</b>
+### <b>Programming languages</b>
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -16,7 +16,7 @@ Currently, I have been working as a Data Scientist for over a year and I have de
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
-- <b>Python Libraries</b>
+### <b>Python Libraries</b>
 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -25,14 +25,13 @@ Currently, I have been working as a Data Scientist for over a year and I have de
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" width="40" height="40"/> </a>
  
- 
-- <b>Databases</b>
+### <b>Databases</b>
 
 <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postegresql" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="bigquery" width="40" height="40"/> </a>
 
-- <b>Others</b>
+### <b>Others</b>
 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter_notebook" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="microsof_excel" width="40" height="40"/> </a>
@@ -42,12 +41,12 @@ Currently, I have been working as a Data Scientist for over a year and I have de
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 
 
-### ✨ My hobbies
+## ✨ My hobbies
 
 Hiking 🌄 | Camping ⛺ | Scuba Diving 🤿 | Travelling 🚋 | Cooking 👩‍🍳 | Board Games 🎲
 
 
-### 📫 Reach me out!
+## 📫 Reach me out!
 
   <a href="https://www.linkedin.com/in/catarina-mtpires/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
