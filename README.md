@@ -2,7 +2,7 @@
 
 I am a 25 year-old Data Scientist from Lisbon 🇵🇹 currently living in Berlin 🇩🇪.
 
-I found my passion for Data Science in my 3rd year of Bachelors, after choosing Artificial Intelligence as an optional subject. Since then I have learned how to use Python to analyse and clean data, process data (with emphasis in Biological signals and images), create machine learning models, among other things! I have also developed my master's thesis about machine learning uncertainty quantification, with focus on outlier detection.
+I found my passion for Data Science in my 3rd year of Bachelors, after choosing Artificial Intelligence as an optional subject. Since then, I have learned how to use Python to analyse, clean, and process data (with emphasis in Biological signals and images), create machine learning models, among other things! I have also developed my master's thesis about machine learning uncertainty quantification, with focus on outlier detection.
 
 Currently, I have been working as a Data Scientist for over a year and I have deepened the knowledge I gained from my studies while working in an Agile environment and learning new technologies.   
 
