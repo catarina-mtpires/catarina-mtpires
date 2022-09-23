@@ -31,7 +31,7 @@ Currently, I have been working as a Data Scientist for over a year and I have de
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postegresql" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="bigquery" width="40" height="40"/> </a>
 
-### <b>Others</b>
+### <b>Other</b>
 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter_notebook" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="microsof_excel" width="40" height="40"/> </a>
@@ -39,6 +39,7 @@ Currently, I have been working as a Data Scientist for over a year and I have de
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
 
 
 ## ✨ My hobbies
