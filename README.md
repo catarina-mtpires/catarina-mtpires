@@ -1,4 +1,4 @@
-# 👋 Hi, I am Catarina Pires
+# 👋 Hi, I am Catarina
 
 I am a 25 year-old Data Scientist from Lisbon 🇵🇹 currently living in Berlin 🇩🇪.
 
