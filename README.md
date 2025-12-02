@@ -1,10 +1,10 @@
 # 👋 Hi, I am Catarina
 
-I am a 25 year-old Data Scientist from Lisbon 🇵🇹 currently living in Berlin 🇩🇪.
+I am a Data Scientist from Lisbon currently living in Karlsruhe, Germany.
 
-I found my passion for Data Science in my 3rd year of Bachelors, after choosing Artificial Intelligence as an optional subject. Since then, I have learned how to use Python to analyse, clean, and process data (with emphasis in Biological signals and images), create machine learning models, among other things! I have also developed my master's thesis about machine learning uncertainty quantification, with focus on outlier detection.
+I discovered my passion for Data Science during my Biomedical Engineering degree, after choosing Artificial Intelligence as an optional subject. This interest led me to develop my master's thesis on machine learning uncertainty quantification, with a focus on outlier detection.
 
-Currently, I have been working as a Data Scientist for over a year and I have deepened the knowledge I gained from my studies while working in an Agile environment and learning new technologies.   
+Since then, I have been working with Python to build robust machine learning and forecasting models. For the past 3 years, I have worked as a Data Scientist in the chemicals market, improving price forecasting models and delivering end-to-end solutions in an Agile environment.
 
 ## 🌱 Technologies I know
 
