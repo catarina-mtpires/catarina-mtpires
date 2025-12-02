@@ -24,6 +24,7 @@ Since then, I have been working with Python to build robust machine learning and
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" width="40" height="40"/> </a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-plain.svg" alt="plotly" width="40" height="40"/> </a>
  
 ### <b>Databases</b>
 
